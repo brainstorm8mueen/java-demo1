@@ -20,4 +20,4 @@ jobs:
       - name: compile java file
         run: javac helloworld.java
       - name: Run Java Application
-        run:  java HelloWorld
+        run:  java helloworld
